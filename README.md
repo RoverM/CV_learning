@@ -1,4 +1,3 @@
-# Cpp-Primer
-学习一下Cpp和OpenGL等相关知识；
+学习一下C++和Computer Vision的过程；
 
 为了留下学习的痕迹，用git记录一下；
